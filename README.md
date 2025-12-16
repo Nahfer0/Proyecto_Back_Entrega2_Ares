@@ -1,6 +1,6 @@
-# Entrega 1 - API Productos y Carritos
+# Entrega 2 - API Productos y Carritos
 
-Proyecto para la primera entrega: servidor en Node.js + Express con endpoints para productos y carritos.
+Proyecto para la entrega: servidor en Node.js + Express con endpoints para productos y carritos.
 
 ## Instalar y ejecutar
 ```bash
